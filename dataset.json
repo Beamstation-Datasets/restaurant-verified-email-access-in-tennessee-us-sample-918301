@@ -1,0 +1,22 @@
+{
+  "base_price": 2995,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "email",
+  "config_description": "--Reach Independent Inboxes--\n\nWeekly verified, high-deliverability emails.\n\nOnly for established, independent restaurants (or micro-chains) \u2013 large chain enterprises excluded.\n\nWeekly email verification and detailed analysis via our proprietary infrastructure.\n\nBusiness activity validated by an \"Active Heartbeat\" signal.",
+  "config_name": "Restaurant Verified Email Access in Tennessee, US",
+  "export_job_id": "56b4f4eb-9a27-490d-a941-e78480ff4a4d",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 918301,
+  "location_name": "Tennessee",
+  "location_type": "state",
+  "repo_name": "restaurant-verified-email-access-in-tennessee-us-sample-918301",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/918301/beamstation_918301_restaurants-us-tn_SAMPLE_DIST.csv",
+  "sample_pct": 9.98,
+  "sample_records": 236,
+  "sample_sha256": "c5163caf48e8b08e69a472083d0aa9a068025ab1fcbbdb22a795d817dacc6e9b",
+  "sample_size_bytes": 947150,
+  "total_records": 2365,
+  "updated_at": "2026-04-15T03:52:20.425867+00:00"
+}

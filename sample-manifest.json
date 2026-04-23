@@ -1,12 +1,12 @@
 {
-  "export_job_id": "56b4f4eb-9a27-490d-a941-e78480ff4a4d",
+  "export_job_id": "0bc01767-4d40-40c0-8e3f-654e83e43124",
   "id_short": 918301,
-  "published_at": "2026-04-19T07:03:55Z",
+  "published_at": "2026-04-23T07:15:46Z",
   "repo_name": "restaurant-verified-email-access-in-tennessee-us-sample-918301",
   "sample_asset_name": "beamstation_918301_restaurants-us-tn_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/918301/beamstation_918301_restaurants-us-tn_SAMPLE_DIST.csv",
-  "sample_records": 236,
-  "sample_sha256": "c5163caf48e8b08e69a472083d0aa9a068025ab1fcbbdb22a795d817dacc6e9b",
-  "sample_size_bytes": 947150,
-  "total_records": 2365
+  "sample_records": 260,
+  "sample_sha256": "4564386aa0eaca1dda00a7e129b8e10046650c9b53859113084c27615e0ffb25",
+  "sample_size_bytes": 1036451,
+  "total_records": 2608
 }
